@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="44" viewBox="0 0 160 44" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="REALTECH logo">
+  <rect width="44" height="44" rx="8" fill="#0f766e"/>
+  <path d="M12 10 L32 22 L12 34 Z" fill="white"/>
+  <text x="56" y="28" font-family="Inter, Arial" font-weight="700" font-size="14" fill="#0f1724">REALTECH</text>
+</svg>
